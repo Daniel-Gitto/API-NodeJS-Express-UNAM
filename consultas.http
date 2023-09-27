@@ -1,0 +1,12 @@
+###GET http://localhost:1234/usuarios
+###GET http://localhost:1234/usuarios/1
+###POST http://localhost:1234/usuarios
+##PUT http://localhost:1234/usuarios/1
+###DELETE http://localhost:1234/usuarios/10
+###GET http://localhost:1234/productos/1/precio
+###GET http://localhost:1234/productos/5/nombre
+###GET http://localhost:1234/usuarios/1/telefono
+###GET http://localhost:1234/productos/5/nombre
+###GET http://localhost:1234/productos/total-stock
+
+
